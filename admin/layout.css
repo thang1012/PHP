@@ -1,0 +1,47 @@
+#tbmain{
+	margin: 0 auto;
+	border: 0;
+	border-spacing:0;
+	width: 1000px;
+}
+#tbThemTin td:first-child{
+   padding: 5px 10px;
+}
+#tbSửaTin td:first-child{
+  padding: 5px 10px;
+}
+#tieudequantri{
+	width: 500px;
+	float: left;
+	text-align: left;
+	font-size: 30px;
+	margin-left: 50px;
+	}
+.hangtieudeQuanTri{
+	padding: 5px 10px;
+	background-color: #82FF87;
+	font-size: 20px;
+	font-weight: bold;
+}
+.hangtieude1 td,.hangtieude2 td,.hangchitiet td{
+	text-align: center;
+	padding: 6px 10px;
+}
+.hangtieude1{
+	font-size: 20px;font-weight: bold;
+}
+#hangmenu a{
+	width: 145px;
+	display: block;
+	float: left;
+	margin-right: 1px;
+	text-align: center;
+	text-decoration-line: none;
+	padding: 5px 10px;
+	background-color: #E0E21A;
+	font-size: 15px;
+	font-weight: bold;
+}
+#hangmenu a:hover{
+	background-color: #EB9619;
+}
